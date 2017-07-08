@@ -1,2 +1,2 @@
-####Text Compression 
-#####Algorithm used : Huffman encoding
+#### Text Compression 
+##### Algorithm used : Huffman encoding
